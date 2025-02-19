@@ -1,1 +1,1 @@
-## practicing git commands fro yt
+## practicing git commands from yt
